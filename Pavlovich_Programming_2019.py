@@ -4,7 +4,6 @@
 LIFE97011 - Computing
 Python Programming - Assessed Exercise No. 2
 @Author: Slaviana Pavlovich
-@CID: 01739756
 
 """
 
