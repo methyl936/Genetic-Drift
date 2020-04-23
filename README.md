@@ -1,7 +1,7 @@
 # Computing Coursework
 
 - **Author:** Slaviana Pavlovich
-- **Acknowledgment:** This notebook was submitted for the coursework in the "Computing" module as part of MSc in Bioinformatics and Theoretical Systems Biology at Imperial College London
+- **Acknowledgment:** This script was submitted for the coursework in the "Computing" module as part of MSc in Bioinformatics and Theoretical Systems Biology at Imperial College London
 - **Date:** December 10th 2019
 - **Language:** Python
 
