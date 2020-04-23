@@ -1,4 +1,4 @@
-# Computing Coursework
+# Genetic Drift
 
 - **Author:** Slaviana Pavlovich
 - **Acknowledgment:** This script was submitted for the coursework in the "Computing" module as part of MSc in Bioinformatics and Theoretical Systems Biology at Imperial College London
